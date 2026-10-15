@@ -56,4 +56,4 @@ Each case study separates models, reports, data, figures, scripts and earlier ve
 
 [Calgro files](research/calgro-m3/README.md) · [SSK files](research/stefanutti-stocks/README.md) · [Earlier spreadsheet work](foundations/README.md)
 
-[Methodology](docs/METHODOLOGY.md) · [Run the scripts](docs/RUNNING.md) · [File provenance](docs/PROVENANCE.md)
+[Methodology](docs/Research-Methodology.md) · [Run the scripts](docs/Running-the-Scripts.md) · [File sources](docs/File-Sources.md)

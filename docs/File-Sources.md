@@ -1,4 +1,4 @@
-# File provenance
+# File sources
 
 The portfolio was organised from the supplied research collection. The [source manifest](source-manifest.json) records the original relative filename, published filename and SHA-256 digest for each copied file before presentation and script-path updates.
 

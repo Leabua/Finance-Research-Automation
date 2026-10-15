@@ -32,4 +32,4 @@ Dark versions of the charts and three- and six-month price-movement figures are 
 
 The [archive](archive) contains an earlier report, an earlier model and the raw-data Excel export. Use the workbook and report linked under **Main deliverables** when reviewing the portfolio.
 
-[Running instructions](../../docs/RUNNING.md) · [Methodology](../../docs/METHODOLOGY.md) · [Back to portfolio](../../README.md)
+[Running instructions](../../docs/Running-the-Scripts.md) · [Methodology](../../docs/Research-Methodology.md) · [Back to portfolio](../../README.md)

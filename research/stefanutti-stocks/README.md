@@ -23,4 +23,4 @@ The main report is the later Markdown write-up dated **26 May 2026**, incorporat
 
 The reviewed company results in `sources/` are a reference document, separate from the authored research in `reports/`. The saved CSV exports and workbook include different reporting periods; the source notes in the report explain the FY2026 additions.
 
-[Running instructions](../../docs/RUNNING.md) · [Methodology](../../docs/METHODOLOGY.md) · [Back to portfolio](../../README.md)
+[Running instructions](../../docs/Running-the-Scripts.md) · [Methodology](../../docs/Research-Methodology.md) · [Back to portfolio](../../README.md)

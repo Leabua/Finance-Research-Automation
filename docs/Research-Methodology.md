@@ -40,4 +40,4 @@ The Excel model includes statement standardisation, ratios, order-book scenarios
 
 The main Excel workbooks, Calgro PDF, source documents, saved CSVs and original PNG figures are copied from the supplied collection. Earlier report and workbook versions are labelled in each case study's archive. Em dashes in the written reports and editable write-up have been replaced with standard hyphens. Script changes for this publication concern file locations and generated-output separation; the original model assumptions are retained.
 
-[File provenance](PROVENANCE.md) · [Running instructions](RUNNING.md)
+[File sources](File-Sources.md) · [Running instructions](Running-the-Scripts.md)
