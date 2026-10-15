@@ -1,0 +1,407 @@
+[
+  {
+    "source": "Calgro Complete/CGR_Full_with_models.xlsx",
+    "published": "research/calgro-m3/models/CGR-Full-with-Models.xlsx",
+    "sha256": "1f65226d54b422bd03a44ef0edbfb2a1b4a574b136f85050562ca7285c299320"
+  },
+  {
+    "source": "Calgro Complete/Calgro May 2026 Analysis.pdf",
+    "published": "research/calgro-m3/reports/Calgro-May-2026-Analysis.pdf",
+    "sha256": "f51c19076577ba272f30e2722329619f3da55003a62ca68cce0ad516bf37c663"
+  },
+  {
+    "source": "calgrom3/Calgro write up.odt",
+    "published": "research/calgro-m3/reports/source/Calgro-write-up.odt",
+    "sha256": "35e3e4020222716ec4434e9f722d11f43760c8fbd06a0f4f2b1a95856a936db9"
+  },
+  {
+    "source": "calgrom3/CalgroM3_Equity_Research_Report (1).pdf",
+    "published": "research/calgro-m3/archive/Calgro-Equity-Research-earlier-version.pdf",
+    "sha256": "d1cbb4dd1eaf5fed25dc329dca410d7b206a4bcca3baf8b225cf61a32d206eb5"
+  },
+  {
+    "source": "calgrom3/CGR_full.xlsx",
+    "published": "research/calgro-m3/archive/CGR-earlier-model.xlsx",
+    "sha256": "635a959ebb075e7e52f31db4dc808c845cd85e1e2a492b806ef52c228daf0ddf"
+  },
+  {
+    "source": "calgrom3/python/CGR_full.xlsx",
+    "published": "research/calgro-m3/archive/CGR-raw-data-export.xlsx",
+    "sha256": "b07950ead6d98495152b18184e6027ec197b0ba820371e8a21238bf8a89959f8"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_balance_sheet.csv",
+    "published": "research/calgro-m3/data/CGR_balance_sheet.csv",
+    "sha256": "bac15c39882063f615ac00cae4aa49383eefe17bc80fcc2effb55a7db82c0fa1"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_cashflows.csv",
+    "published": "research/calgro-m3/data/CGR_cashflows.csv",
+    "sha256": "1f62f7cc4b7b3aa8a37dd5d222e2096fda8ecfebf0bff7898e32970074a426fa"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_close.csv",
+    "published": "research/calgro-m3/data/CGR_close.csv",
+    "sha256": "dd3dfcd5d739f19fe8b75356cc0c65b5c35fd59a1d7447ef9e0b79a9c8b23601"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_growth_estimates.csv",
+    "published": "research/calgro-m3/data/CGR_growth_estimates.csv",
+    "sha256": "3e590d732358acc3da47443f0d12695953a3597ff10924a80aa0d46544fc5aae"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_income_stmt.csv",
+    "published": "research/calgro-m3/data/CGR_income_stmt.csv",
+    "sha256": "509dfa36940bfaf7660762a9a46029dd2aca4d6894f30a95beee5458f29e3e32"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_monte_carlo_forecast.csv",
+    "published": "research/calgro-m3/data/CGR_monte_carlo_forecast.csv",
+    "sha256": "2276bc5ae5c302017eace85316f811ed3faad4852ca63d8b47c53069e592b8fc"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_price_targets.csv",
+    "published": "research/calgro-m3/data/CGR_price_targets.csv",
+    "sha256": "9cee1b3bd231b697bf0b6f9e4600732e5cba9673729a9263bce08e0be513c7db"
+  },
+  {
+    "source": "Calgro Complete/csv/CGR_recommendations.csv",
+    "published": "research/calgro-m3/data/CGR_recommendations.csv",
+    "sha256": "1e8d23cbafe3356d48db1d9f6587d64fae8fe52a146c3d5faa5759849caec751"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_3mo_movement_dark.png",
+    "published": "research/calgro-m3/figures/CGR_3mo_movement_dark.png",
+    "sha256": "727fcd5275dab6caaa0a253db92066dec77e557d9395a32ac88de3af1492a42a"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_3mo_movement_light.png",
+    "published": "research/calgro-m3/figures/CGR_3mo_movement_light.png",
+    "sha256": "dc3e860c6947812510acb0db012f9ab4724320d3110194a15f55549d51cf6773"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_6mo_movement_dark.png",
+    "published": "research/calgro-m3/figures/CGR_6mo_movement_dark.png",
+    "sha256": "ce42ee86e9f1f292966fb670bc0e806148f016860706a2077dd748cd296243df"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_6mo_movement_light.png",
+    "published": "research/calgro-m3/figures/CGR_6mo_movement_light.png",
+    "sha256": "c558e341e87cf0c0c3b1f5a32a7034d58c328981305c16ef0c8fd038bb83cfba"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_6mo_special_movement_dark.png",
+    "published": "research/calgro-m3/figures/CGR_6mo_special_movement_dark.png",
+    "sha256": "0e82191b8cd39f6897e3b14806355e654e35ff04443ed7c3724144e61b2eec2a"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_6mo_special_movement_light.png",
+    "published": "research/calgro-m3/figures/CGR_6mo_special_movement_light.png",
+    "sha256": "b1b7e1a76f66618795cb8b3c47b54bc66f71befa37dd16862ec19d0ac6be78d5"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_monte_carlo_forecast_dark.png",
+    "published": "research/calgro-m3/figures/CGR_monte_carlo_forecast_dark.png",
+    "sha256": "d8eda3ec885b56e6c5e38d64d874461131c9d30dd4484e49c2f454bd4d07f5d6"
+  },
+  {
+    "source": "Calgro Complete/png/CGR_monte_carlo_forecast_light.png",
+    "published": "research/calgro-m3/figures/CGR_monte_carlo_forecast_light.png",
+    "sha256": "39da8d5952f93063a0b7912cef959cbd67e4e00d5da53b02bf7241664fa62fa4"
+  },
+  {
+    "source": "Calgro Complete/png/bankenveld_jcurve_dark.png",
+    "published": "research/calgro-m3/figures/bankenveld_jcurve_dark.png",
+    "sha256": "ecb6db303f4088fe9da56b1298021fa72447816b74e97b20331a94371bf98948"
+  },
+  {
+    "source": "Calgro Complete/png/bankenveld_jcurve_light.png",
+    "published": "research/calgro-m3/figures/bankenveld_jcurve_light.png",
+    "sha256": "5b9f7a74aeef8c05d5f55d3708454e059ac6a4bf08581945bf45608c79546627"
+  },
+  {
+    "source": "Calgro Complete/png/cgr_key_metrics_table.png",
+    "published": "research/calgro-m3/figures/cgr_key_metrics_table.png",
+    "sha256": "976867fa189de47850266e552152acb720d27ecdd17971497d9d28c6da4679b7"
+  },
+  {
+    "source": "Calgro Complete/png/cgr_research_header_table.png",
+    "published": "research/calgro-m3/figures/cgr_research_header_table.png",
+    "sha256": "4b52be5aba28abd1123a89a60265678d0f0efc1645c88ab4cf513fada5a26aef"
+  },
+  {
+    "source": "Calgro Complete/png/combined_jcurve_dark.png",
+    "published": "research/calgro-m3/figures/combined_jcurve_dark.png",
+    "sha256": "d2e87a2c016244cd897ea8ddbad5e80c2bab9b3b10d677504292bb9ee0497e78"
+  },
+  {
+    "source": "Calgro Complete/png/combined_jcurve_light.png",
+    "published": "research/calgro-m3/figures/combined_jcurve_light.png",
+    "sha256": "e46e5f96d784fda41ec0972a5cbb01a2371bdffa2672359492decbdb1581f944"
+  },
+  {
+    "source": "Calgro Complete/png/fleurhof_south_hills_jcurve_dark.png",
+    "published": "research/calgro-m3/figures/fleurhof_south_hills_jcurve_dark.png",
+    "sha256": "e37d63a8903f5b1d1038788bfcf1f9dfa65ce27079fd7f832e46b53e0ff349cd"
+  },
+  {
+    "source": "Calgro Complete/png/fleurhof_south_hills_jcurve_light.png",
+    "published": "research/calgro-m3/figures/fleurhof_south_hills_jcurve_light.png",
+    "sha256": "eacf49b37fb78b9ed47f090c47f31f9ee94afe7b85221021150aa720f79fc806"
+  },
+  {
+    "source": "Calgro Complete/png/memorial_parks_jcurve_dark.png",
+    "published": "research/calgro-m3/figures/memorial_parks_jcurve_dark.png",
+    "sha256": "344b29a6897204eaef4b1c84b2adf49676821b342428167a2728ed8f5cdc2dcc"
+  },
+  {
+    "source": "Calgro Complete/png/memorial_parks_jcurve_light.png",
+    "published": "research/calgro-m3/figures/memorial_parks_jcurve_light.png",
+    "sha256": "3023099d2fd1adc6269723fb75e7656ee93425c6ea9f5d23e1a4ff7dda3e638e"
+  },
+  {
+    "source": "calgrom3/png/cgr_scenario_table.png",
+    "published": "research/calgro-m3/figures/cgr_scenario_table.png",
+    "sha256": "3b26cc9d18e0a81f06bf222b5941af292f7aeb74623209a7747166e5ae44a12a"
+  },
+  {
+    "source": "calgrom3/python/balance.py",
+    "published": "research/calgro-m3/scripts/balance.py",
+    "sha256": "ae5f35cac4a5df5c2875a8af12debe982d2e48b6ce526008b840f59d4f1152b0"
+  },
+  {
+    "source": "calgrom3/python/cash_flows.py",
+    "published": "research/calgro-m3/scripts/cash_flows.py",
+    "sha256": "02530701006c8a7b7078479b127105f1079a7bb422b806e3ebf282015263f177"
+  },
+  {
+    "source": "calgrom3/python/closing.py",
+    "published": "research/calgro-m3/scripts/closing.py",
+    "sha256": "658d1854de2723e7a5acf1cc50411c75d6736b0d8678fea9daf28989fffc8652"
+  },
+  {
+    "source": "calgrom3/python/config.py",
+    "published": "research/calgro-m3/scripts/config.py",
+    "sha256": "ecff41f6b9a0d4938b2e875a697b9e6f239cbf3e471b5f7249f03962255f6708"
+  },
+  {
+    "source": "calgrom3/python/full_set.py",
+    "published": "research/calgro-m3/scripts/full_set.py",
+    "sha256": "8ea290a299bca696f2e28388bd7ebb0c72033e50c347e66e711ee5a5ecdfe0af"
+  },
+  {
+    "source": "calgrom3/python/generate_bankenveld.py",
+    "published": "research/calgro-m3/scripts/generate_bankenveld.py",
+    "sha256": "d2a77249e633ff3eb08d6249152c21bcd407209c28c82fee0b804795a3abd258"
+  },
+  {
+    "source": "calgrom3/python/generate_cgr_special.py",
+    "published": "research/calgro-m3/scripts/generate_cgr_special.py",
+    "sha256": "cbcb537252f729111dacd0449a80ea667af20f2e028de6327ea77319c4e8e40d"
+  },
+  {
+    "source": "calgrom3/python/generate_cgr_special_local.py",
+    "published": "research/calgro-m3/scripts/generate_cgr_special_local.py",
+    "sha256": "9f1fabc4a749cad71831cc169fea930851f53f49ff9d4cf3a998e6a3d5aa8d6b"
+  },
+  {
+    "source": "calgrom3/python/generate_combined.py",
+    "published": "research/calgro-m3/scripts/generate_combined.py",
+    "sha256": "6322fbcc66e3b79313756f7f2e84c25a382895568144bfd246ced6baf9df3a90"
+  },
+  {
+    "source": "calgrom3/python/generate_fleurhof_south_hills.py",
+    "published": "research/calgro-m3/scripts/generate_fleurhof_south_hills.py",
+    "sha256": "873bb1ca540d1b5a100090b18d79fb553d503ceb10fd026d949b3027e7a9702f"
+  },
+  {
+    "source": "calgrom3/python/generate_header_table.py",
+    "published": "research/calgro-m3/scripts/generate_header_table.py",
+    "sha256": "0c1b820fdf24d4d2ce3d96b1913f217af5db4fd2dd37a2b225482cf6e9e3be79"
+  },
+  {
+    "source": "calgrom3/python/generate_memorial_parks.py",
+    "published": "research/calgro-m3/scripts/generate_memorial_parks.py",
+    "sha256": "102d0d2f35898d40e203836058eb60a0431942ae858beb9a8f18bbb3644349ef"
+  },
+  {
+    "source": "calgrom3/python/generate_metrics_table.py",
+    "published": "research/calgro-m3/scripts/generate_metrics_table.py",
+    "sha256": "987cbe96f0d240b67fb87e592e20077785a7131c3eb0935d09845edb7f8280aa"
+  },
+  {
+    "source": "calgrom3/python/generate_monte_carlo.py",
+    "published": "research/calgro-m3/scripts/generate_monte_carlo.py",
+    "sha256": "fa92a8acf5747e08385d96ee2a6afb32e7723d2db45e31f17ebf2c3eaf28d219"
+  },
+  {
+    "source": "calgrom3/python/generate_recent_movements.py",
+    "published": "research/calgro-m3/scripts/generate_recent_movements.py",
+    "sha256": "a9d56f438a058c430f115ce674ff6f02333bf6c6d49221faad728865575d44b7"
+  },
+  {
+    "source": "calgrom3/python/generate_scenario_table.py",
+    "published": "research/calgro-m3/scripts/generate_scenario_table.py",
+    "sha256": "d476e3c04348ba01427df733bf04e339283900b3fa0f3b19f5d67fadc22f03b4"
+  },
+  {
+    "source": "calgrom3/python/growth_est.py",
+    "published": "research/calgro-m3/scripts/growth_est.py",
+    "sha256": "134a652e196e4f7993837be8110f70c634374852b9ccd3fe2adc18b888b19616"
+  },
+  {
+    "source": "calgrom3/python/income.py",
+    "published": "research/calgro-m3/scripts/income.py",
+    "sha256": "ce97cc77eb48cb500ffeafe8d6ce5621fc5c6a0d87f3b0c3b589f0de86114f2d"
+  },
+  {
+    "source": "calgrom3/python/price_targets.py",
+    "published": "research/calgro-m3/scripts/price_targets.py",
+    "sha256": "563f27ccabc07aba4101f57def330e554111e8339e51596dbd6970d05d1b55b3"
+  },
+  {
+    "source": "calgrom3/python/recommendations.py",
+    "published": "research/calgro-m3/scripts/recommendations.py",
+    "sha256": "7811d89e7ec3c58effaf979709313db3378403652fa468ce11f7e54374b3b432"
+  },
+  {
+    "source": "calgrom3/cgr_research_header.html",
+    "published": "research/calgro-m3/figures/cgr-research-header.html",
+    "sha256": "41bbfb23e0d8b358d267b75d5ff826a246a4cacb501772b4ba25885f5355dff2"
+  },
+  {
+    "source": "steff/SSK_full.xlsx",
+    "published": "research/stefanutti-stocks/models/SSK-Full-Model.xlsx",
+    "sha256": "ec0f22e0c37e1aab470b091ad435bb0d08f9ffcfdc7923e113570d12f77e593b"
+  },
+  {
+    "source": "steff/Stefanutti_v2.md",
+    "published": "research/stefanutti-stocks/reports/Stefanutti-Stocks-Equity-Research.md",
+    "sha256": "592f0aca43f18f46736efc245cb657ffae19494f0a56215bcc2f37d16f7ef91a"
+  },
+  {
+    "source": "steff/Stefanutti.md",
+    "published": "research/stefanutti-stocks/archive/Stefanutti-earlier-research.md",
+    "sha256": "cce618d32e753bda586e4418972b8003f1133c79398e4f5017e81f51e1b004e8"
+  },
+  {
+    "source": "steff/old/SSK_full.xlsx",
+    "published": "research/stefanutti-stocks/archive/SSK-earlier-data-workbook.xlsx",
+    "sha256": "7ad64344e24a0bd8292fad3d65df71028b8c57cc114621fe818c634cab3c7b21"
+  },
+  {
+    "source": "steff/FY2026.pdf",
+    "published": "research/stefanutti-stocks/sources/SSK-FY2026-Reviewed-Results.pdf",
+    "sha256": "e48ae3656303174d12a6407249741d7d05b23491097b63ae722c4736a70dc532"
+  },
+  {
+    "source": "steff/csv/SSK_balance_sheet.csv",
+    "published": "research/stefanutti-stocks/data/SSK_balance_sheet.csv",
+    "sha256": "f8dfcb2befeb3b3723508f38f74d04322af500f9b039d02cfcf3ae6a86c781eb"
+  },
+  {
+    "source": "steff/csv/SSK_cashflows.csv",
+    "published": "research/stefanutti-stocks/data/SSK_cashflows.csv",
+    "sha256": "08377a5d37dee11afc23fabe44d5006c601436934a2e37f944ffd00ac2924a2a"
+  },
+  {
+    "source": "steff/csv/SSK_close.csv",
+    "published": "research/stefanutti-stocks/data/SSK_close.csv",
+    "sha256": "a49eda1149b10856b0832cbcae126c5e0936292d229480158270c90cc0d3ce50"
+  },
+  {
+    "source": "steff/csv/SSK_growth_estimates.csv",
+    "published": "research/stefanutti-stocks/data/SSK_growth_estimates.csv",
+    "sha256": "3e590d732358acc3da47443f0d12695953a3597ff10924a80aa0d46544fc5aae"
+  },
+  {
+    "source": "steff/csv/SSK_income_stmt.csv",
+    "published": "research/stefanutti-stocks/data/SSK_income_stmt.csv",
+    "sha256": "2884966c6d7a1f10429bb1413966dc4d1f13d99fccefea891cbb712908fbdd9e"
+  },
+  {
+    "source": "steff/csv/SSK_price_targets.csv",
+    "published": "research/stefanutti-stocks/data/SSK_price_targets.csv",
+    "sha256": "7c965da90b6a3af7415a71a28227be7af2257549019b96102f144b7315cbcf73"
+  },
+  {
+    "source": "steff/png/ssk_key_metrics_table.png",
+    "published": "research/stefanutti-stocks/figures/ssk_key_metrics_table.png",
+    "sha256": "0af89ad8aa0c1151de69ebd51f7b06bf88a972a538c69729c3f44cf3416c35ef"
+  },
+  {
+    "source": "calgrom3/png/steff/SSK_3mo_movement_dark.png",
+    "published": "research/stefanutti-stocks/figures/SSK_3mo_movement_dark.png",
+    "sha256": "0c7f3bc2cceee94656852325aa48622f69941c30efdfe395cfed7fd361d9c5c9"
+  },
+  {
+    "source": "calgrom3/png/steff/SSK_3mo_movement_light.png",
+    "published": "research/stefanutti-stocks/figures/SSK_3mo_movement_light.png",
+    "sha256": "c6ca6350e9b67b71554fc55388e00a4b23764627d31bfa2559052b53feccf6a3"
+  },
+  {
+    "source": "calgrom3/png/steff/SSK_6mo_movement_dark.png",
+    "published": "research/stefanutti-stocks/figures/SSK_6mo_movement_dark.png",
+    "sha256": "7665cef4e5c16baf15f2d8015e5557dd84d2691061e41ab579d0f384282dd56a"
+  },
+  {
+    "source": "calgrom3/png/steff/SSK_6mo_movement_light.png",
+    "published": "research/stefanutti-stocks/figures/SSK_6mo_movement_light.png",
+    "sha256": "20bb71ff1aa2f3fd46ee99d37a82f661111b12ac821b88c3d456af7f30ad0b57"
+  },
+  {
+    "source": "steff/python/balance.py",
+    "published": "research/stefanutti-stocks/scripts/balance.py",
+    "sha256": "ae5f35cac4a5df5c2875a8af12debe982d2e48b6ce526008b840f59d4f1152b0"
+  },
+  {
+    "source": "steff/python/cash_flows.py",
+    "published": "research/stefanutti-stocks/scripts/cash_flows.py",
+    "sha256": "02530701006c8a7b7078479b127105f1079a7bb422b806e3ebf282015263f177"
+  },
+  {
+    "source": "steff/python/closing.py",
+    "published": "research/stefanutti-stocks/scripts/closing.py",
+    "sha256": "c739ca6c7d4331e1ac888fca327aa2b8c7aaaa7e639dbfda9d9094cb7970287a"
+  },
+  {
+    "source": "steff/python/config.py",
+    "published": "research/stefanutti-stocks/scripts/config.py",
+    "sha256": "45ef3b9a6516817cec37ce71ca0405428cf4fc9c61d96d796acf1d0f8ecea7b9"
+  },
+  {
+    "source": "steff/python/full_set.py",
+    "published": "research/stefanutti-stocks/scripts/full_set.py",
+    "sha256": "8ea290a299bca696f2e28388bd7ebb0c72033e50c347e66e711ee5a5ecdfe0af"
+  },
+  {
+    "source": "steff/python/generate_metrics_table.py",
+    "published": "research/stefanutti-stocks/scripts/generate_metrics_table.py",
+    "sha256": "ff3c0335451469e7eeee74a99f28823ebb4ad2e48d9885a0a644d37fa74c9696"
+  },
+  {
+    "source": "steff/python/growth_est.py",
+    "published": "research/stefanutti-stocks/scripts/growth_est.py",
+    "sha256": "134a652e196e4f7993837be8110f70c634374852b9ccd3fe2adc18b888b19616"
+  },
+  {
+    "source": "steff/python/income.py",
+    "published": "research/stefanutti-stocks/scripts/income.py",
+    "sha256": "ce97cc77eb48cb500ffeafe8d6ce5621fc5c6a0d87f3b0c3b589f0de86114f2d"
+  },
+  {
+    "source": "steff/python/price_targets.py",
+    "published": "research/stefanutti-stocks/scripts/price_targets.py",
+    "sha256": "563f27ccabc07aba4101f57def330e554111e8339e51596dbd6970d05d1b55b3"
+  },
+  {
+    "source": "steff/python/recommendations.py",
+    "published": "research/stefanutti-stocks/scripts/recommendations.py",
+    "sha256": "7811d89e7ec3c58effaf979709313db3378403652fa468ce11f7e54374b3b432"
+  },
+  {
+    "source": "Standards and curves (pre-ai).ods",
+    "published": "foundations/Standards-and-Curves.ods",
+    "sha256": "d8e8f474b508ebc680016f1ebc8386c16fd67143321d13ec0ee61c3f6be84d49"
+  }
+]

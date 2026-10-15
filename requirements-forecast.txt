@@ -1,0 +1,3 @@
+-r requirements.txt
+# Darts' current package name; see the linked official installation guide.
+darts>=0.41.0

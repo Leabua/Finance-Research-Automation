@@ -1,0 +1,23 @@
+# Original local collection; the curated research files are published separately.
+/research2/
+
+# Local Python environments and generated outputs.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+research/*/generated/
+.cache/
+.pytest_cache/
+
+# Credentials, editor state and office temporary files.
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+.~lock.*#
+~$*
+*.tmp
