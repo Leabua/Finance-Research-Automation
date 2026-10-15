@@ -1,4 +1,4 @@
-# Stefanutti Stocks (JSE: SSK) — Equity Research Report
+# Stefanutti Stocks (JSE: SSK) - Equity Research Report
 
 **Date:** May 26, 2026 (Results Day)
 **Price:** ~720 ZAc | **52-Week Range:** 297–780 ZAc | **Market Cap:** ~R1.2bn
@@ -10,7 +10,7 @@
 
 ## Executive Summary
 
-Stefanutti Stocks has completed a multi-year restructuring that transformed its balance sheet from net debt of R767m to net cash of R442m in a single year. The market appears to have priced in the historical distress — the stock is up 143% from its 52-week low — but has not yet priced in what the order book is telling us about the next three years.
+Stefanutti Stocks has completed a multi-year restructuring that transformed its balance sheet from net debt of R767m to net cash of R442m in a single year. The market appears to have priced in the historical distress - the stock is up 143% from its 52-week low - but has not yet priced in what the order book is telling us about the next three years.
 
 At 0.89x EV/EBITDA, the market is valuing the entire operating business at less than one year of earnings after netting out cash. Either provisions will crystallise and justify that discount, or the R17.2 billion order book will convert into cash and the stock re-rates. This report argues the latter is more likely.
 
@@ -18,11 +18,11 @@ At 0.89x EV/EBITDA, the market is valuing the entire operating business at less 
 
 Four data points frame the thesis:
 
-1. **Net cash of R442m** — a R1.2 billion swing from R767m net debt in twelve months. The balance sheet rescue is complete.
-2. **EV/EBITDA of 0.89x** — the enterprise is priced below one year of operating earnings. This is either a screaming buy or the market expects provisions to crystallise.
-3. **Organic revenue ex-Kusile contracted 3.5%** — headline growth of 2.4% included R448m of non-recurring Kusile settlement revenue. The underlying top line has not yet proven it can grow independently.
-4. **Excess billings surged to R2.65bn (total) / R2.28bn (current)** — clients are paying SSK in advance of work being performed. This is a powerful demand signal and explains why cash conversion hit 183% of EBITDA.
-5. **Going concern flag effectively cleared** — directors confirm "adequate financial resources to continue in operation for the foreseeable future." Net current liability gap improved from R1,302m to just R133m. No material uncertainty paragraph.
+1. **Net cash of R442m** - a R1.2 billion swing from R767m net debt in twelve months. The balance sheet rescue is complete.
+2. **EV/EBITDA of 0.89x** - the enterprise is priced below one year of operating earnings. This is either a screaming buy or the market expects provisions to crystallise.
+3. **Organic revenue ex-Kusile contracted 3.5%** - headline growth of 2.4% included R448m of non-recurring Kusile settlement revenue. The underlying top line has not yet proven it can grow independently.
+4. **Excess billings surged to R2.65bn (total) / R2.28bn (current)** - clients are paying SSK in advance of work being performed. This is a powerful demand signal and explains why cash conversion hit 183% of EBITDA.
+5. **Going concern flag effectively cleared** - directors confirm "adequate financial resources to continue in operation for the foreseeable future." Net current liability gap improved from R1,302m to just R133m. No material uncertainty paragraph.
 
 ---
 
@@ -38,7 +38,7 @@ Stefanutti Stocks is a leading South African construction and engineering group 
 | Employees | ~8,000 (estimated) |
 | Geographic Mix | 84% South Africa (R6.60bn), 16% Africa (R1.07bn + R0.17bn) |
 | Client Mix (FY2026) | 69% private sector (R5.41bn), 31% public sector (R2.43bn) |
-| Recent Disposals | Mozambique (SS-Construcoes) and Mauritius operations — Dec 2025 |
+| Recent Disposals | Mozambique (SS-Construcoes) and Mauritius operations - Dec 2025 |
 
 The private-sector weighting is a critical differentiator. While peers like WBHO and Raubex carry significant public-sector exposure (and the late-payment risk that comes with it), SSK's 69/31 split means the majority of its revenue comes from clients who pay on time and in full. This directly explains the cash conversion dynamics discussed later.
 
@@ -52,7 +52,7 @@ The private-sector weighting is a critical differentiator. While peers like WBHO
 | Mechanical Electrical Piping | R468m | 6.0% |
 | Mining | R426m | 5.4% |
 
-Roads & Earthworks and Civils together account for 71% of revenue — both are direct beneficiaries of the SA government's R1T+ infrastructure pipeline.
+Roads & Earthworks and Civils together account for 71% of revenue - both are direct beneficiaries of the SA government's R1T+ infrastructure pipeline.
 
 ---
 
@@ -71,13 +71,13 @@ The balance sheet story is over. It worked.
 
 Three events closed the chapter:
 
-**The Kusile Settlement (Nov 2025).** Stefanutti reached a full and final settlement with Eskom for R580 million. The original Claim 5 alone was for R1.6 billion — the settlement covered Claims 5 and 6 plus counterclaims. The net after-tax profit from the settlement was R492 million. Kusile Power Station is now fully operational, with Unit 6 reaching commercial operation on September 29, 2025.
+**The Kusile Settlement (Nov 2025).** Stefanutti reached a full and final settlement with Eskom for R580 million. The original Claim 5 alone was for R1.6 billion - the settlement covered Claims 5 and 6 plus counterclaims. The net after-tax profit from the settlement was R492 million. Kusile Power Station is now fully operational, with Unit 6 reaching commercial operation on September 29, 2025.
 
 **The Restructuring Termination (Oct 2025).** The historic restructuring plan was formally terminated on October 31, 2025. Standard Bank replaced it with a clean R850m five-year term loan bearing interest at 3-month JIBAR + 3.50%, repayable in 19 equal quarterly instalments from February 2026 to August 2030. The speed of repayment tells a story of its own: R627m was prepaid from the Kusile settlement and Mozambique disposal proceeds, reducing the outstanding balance to just R223m. Interest on the Facility for FY2026 was R80m (down from R115m on the historical loan). All four financial covenants (Total Debt Service Cover, Cumulative TDSCR, Leverage Ratio, Interest Cover) are compliant. After year-end, the guarantee providers were released from their obligations.
 
 **The Strategic Disposals (Dec 2025).** SS-Construcoes (Mozambique) and Stefanutti Stocks Construction (Mauritius) were both disposed of on December 12, 2025. The company is now a focused South African operator with selective sub-Saharan exposure through its Africa Region (Eswatini, Botswana, Zambia, Zimbabwe).
 
-**Going Concern — Effectively Cleared.** The FY2026 results confirm that the directors believe the group has "adequate financial resources to continue in operation for the foreseeable future." The net current liability gap improved dramatically from R1,302m to just R133m. The auditors' review conclusion is unmodified — no material uncertainty paragraph. This removes the last piece of legacy overhang that was flagged in the August 2025 interim.
+**Going Concern - Effectively Cleared.** The FY2026 results confirm that the directors believe the group has "adequate financial resources to continue in operation for the foreseeable future." The net current liability gap improved dramatically from R1,302m to just R133m. The auditors' review conclusion is unmodified - no material uncertainty paragraph. This removes the last piece of legacy overhang that was flagged in the August 2025 interim.
 
 ---
 
@@ -92,11 +92,11 @@ The margin expansion story is as important as the balance sheet repair. Every pr
 | EBITDA Margin | 3.8% | 5.6% | 10.9% | Expanding |
 | Operating Margin | 3.0% | 4.4% | 8.8% | Expanding |
 | Net Margin (Continuing) | 0.4% | 2.7% | 8.1% | Recovering |
-| Effective Tax Rate | — | 17.6% | 11.3% | Below statutory |
+| Effective Tax Rate | - | 17.6% | 11.3% | Below statutory |
 
-The FY2026 EBITDA of R852m is nearly double FY2025 and more than triple FY2024. Part of this is the Kusile one-off — but even stripping that out, the underlying margin expansion from 3.8% to well above 5% reflects the benefit of executing higher-quality private-sector contracts without the drag of legacy dispute costs.
+The FY2026 EBITDA of R852m is nearly double FY2025 and more than triple FY2024. Part of this is the Kusile one-off - but even stripping that out, the underlying margin expansion from 3.8% to well above 5% reflects the benefit of executing higher-quality private-sector contracts without the drag of legacy dispute costs.
 
-**Tax rate note.** The effective tax rate of 11.3% (FY2026) is well below the 27% statutory rate. This is driven by the R169m deferred tax asset (implying ~R625m in carried tax losses). These losses will shield future income from full taxation for several years. For normalised modelling purposes, the statutory 27% should be used — but it's worth noting that actual cash tax payments will be lower than reported profits suggest.
+**Tax rate note.** The effective tax rate of 11.3% (FY2026) is well below the 27% statutory rate. This is driven by the R169m deferred tax asset (implying ~R625m in carried tax losses). These losses will shield future income from full taxation for several years. For normalised modelling purposes, the statutory 27% should be used - but it's worth noting that actual cash tax payments will be lower than reported profits suggest.
 
 ### H1 FY2026 Interim Results (6 months ended 31 August 2025)
 
@@ -109,12 +109,12 @@ The interim results show the trajectory within the year and confirm that the H2 
 | Profit for Period (Total) | R48.4m | R2.9m | +1,569% |
 | EPS (Total) | 28.96c | 1.71c | +1,594% |
 | HEPS (Total) | 34.54c | 13.23c | +161% |
-| Cash on Hand | R336m | — | — |
+| Cash on Hand | R336m | - | - |
 | Order Book | R13.4b | R8.6b (Feb 2025) | +56% |
 
-H1 revenue was essentially flat (+0.8%), yet operating profit grew 21.8% — pure margin expansion. H2 then delivered the Kusile settlement windfall on top of this underlying improvement.
+H1 revenue was essentially flat (+0.8%), yet operating profit grew 21.8% - pure margin expansion. H2 then delivered the Kusile settlement windfall on top of this underlying improvement.
 
-### Earnings Per Share — The Trading Statement
+### Earnings Per Share - The Trading Statement
 
 The May 15, 2026 trading statement projects transformative earnings growth:
 
@@ -122,7 +122,7 @@ The May 15, 2026 trading statement projects transformative earnings growth:
 |:---|---:|---:|
 | EPS Range | 362–387c (+190% to +210%) | 362–377c (+360% to +380%) |
 | HEPS Range | 369–394c (+195% to +215%) | 350–372c (+220% to +240%) |
-| Prior Year HEPS (Continuing) | 125.13c | — |
+| Prior Year HEPS (Continuing) | 125.13c | - |
 
 At the HEPS midpoint of ~381c (continuing) and a share price of 720 ZAc, the **forward P/E is ~1.9x**. This is distressed-level pricing for a company with R442m in net cash and a R15.3bn order book.
 
@@ -134,11 +134,11 @@ At the HEPS midpoint of ~381c (continuing) and a share price of 720 ZAc, the **f
 
 Headline revenue grew 2.4% in FY2026 to R7.84bn. But R448m of that is Kusile settlement revenue that will not recur. Strip it out and organic revenue **contracted 3.5%**.
 
-This is the gap the market is sitting in. The balance sheet is fixed, but the top line hasn't proven it can grow under its own power yet. The order book (Section 5) argues this is a timing lag — but until revenue from new contracts actually shows up in reported numbers, this remains the honest bear case.
+This is the gap the market is sitting in. The balance sheet is fixed, but the top line hasn't proven it can grow under its own power yet. The order book (Section 5) argues this is a timing lag - but until revenue from new contracts actually shows up in reported numbers, this remains the honest bear case.
 
-### Provisions — The Tail Risk
+### Provisions - The Tail Risk
 
-R827m in provisions sits at **68.7% of market cap**. These are claims, guarantees, and contract disputes that could crystallise. The provisions are declining — R966m → R929m → R827m over three years — and the direction is right. But even a modest crystallisation matters:
+R827m in provisions sits at **68.7% of market cap**. These are claims, guarantees, and contract disputes that could crystallise. The provisions are declining - R966m → R929m → R827m over three years - and the direction is right. But even a modest crystallisation matters:
 
 | Crystallisation Rate | Provision Hit | Remaining Net Cash | % of Market Cap |
 |:---|---:|---:|---:|
@@ -146,13 +146,13 @@ R827m in provisions sits at **68.7% of market cap**. These are claims, guarantee
 | 20% | R165m | R277m | 13.8% |
 | 30% | R248m | R194m | 20.7% |
 
-At 20%, the company absorbs it comfortably. At 30%, the cash cushion thins but remains positive. This is the scenario that justifies the sub-1x EV/EBITDA discount — the market is hedging against a material provision blow-up.
+At 20%, the company absorbs it comfortably. At 30%, the cash cushion thins but remains positive. This is the scenario that justifies the sub-1x EV/EBITDA discount - the market is hedging against a material provision blow-up.
 
 ### Balance Sheet Structural Risks
 
-- **Negative Working Capital:** Current liabilities exceed current assets by R1,839m (FY2025). This looks alarming but is heavily influenced by excess billings (R2.28bn) — cash received for work not yet performed. As that work is performed, these liabilities convert to revenue. It is a feature of the business model, not a solvency risk.
+- **Negative Working Capital:** Current liabilities exceed current assets by R1,839m (FY2025). This looks alarming but is heavily influenced by excess billings (R2.28bn) - cash received for work not yet performed. As that work is performed, these liabilities convert to revenue. It is a feature of the business model, not a solvency risk.
 - **Goodwill of R272m:** Unchanged for four years. Tangible book value is negative at -R256m. Standard NAV-based valuation is meaningless here.
-- **Negative Tangible Book Value:** -R256m. This is why Price/Tangible Book at 3.73x is misleading — you're dividing by a near-zero denominator. Earnings-based and cash-flow-based metrics are the only reliable valuation tools.
+- **Negative Tangible Book Value:** -R256m. This is why Price/Tangible Book at 3.73x is misleading - you're dividing by a near-zero denominator. Earnings-based and cash-flow-based metrics are the only reliable valuation tools.
 
 ### Sector Risks
 
@@ -164,18 +164,18 @@ At 20%, the company absorbs it comfortably. At 30%, the cash cushion thins but r
 
 ## 5. The Forward Case: Order Book and Cash Conversion
 
-This is where the story shifts from "what happened" to "what's coming" — and it's straightforward.
+This is where the story shifts from "what happened" to "what's coming" - and it's straightforward.
 
 ### Order Book Growth
 
 | Period | Order Book | Coverage (vs Revenue) | Change |
 |:---|---:|---:|:---|
-| Feb 2024 | ~R8.6bn | 1.21x | — |
+| Feb 2024 | ~R8.6bn | 1.21x | - |
 | Feb 2025 | R8.6bn | 1.12x | Flat |
-| Aug 2025 | R13.4bn | — | +56% |
+| Aug 2025 | R13.4bn | - | +56% |
 | Feb 2026 | **R17.2bn** | **2.19x** | **+100% YoY** |
 
-The confirmed order book from the FY2026 results is **R17.2 billion** — double the prior year. Of this, R6.0bn arises from work beyond South Africa's borders (vs R1.0bn prior year) and R8.5bn extends beyond February 2027 (vs R3.6bn prior year), indicating longer-duration, higher-visibility contracts.
+The confirmed order book from the FY2026 results is **R17.2 billion** - double the prior year. Of this, R6.0bn arises from work beyond South Africa's borders (vs R1.0bn prior year) and R8.5bn extends beyond February 2027 (vs R3.6bn prior year), indicating longer-duration, higher-visibility contracts.
 
 **Regional Order Book Breakdown (Feb 2026):**
 
@@ -186,40 +186,40 @@ The confirmed order book from the FY2026 results is **R17.2 billion** — double
 | Western Cape | R3.1bn | R2.7bn | +15% |
 | Coastal | R2.6bn | R1.6bn | +63% |
 
-The order book doubled in 12 months. At 2.19x revenue coverage, SSK has over **two years of work already contracted**. This is not a projection — it is signed, committed work.
+The order book doubled in 12 months. At 2.19x revenue coverage, SSK has over **two years of work already contracted**. This is not a projection - it is signed, committed work.
 
 **Order Book / Market Cap = 14.3x.** The company has R14.30 of contracted work for every R1 of market capitalisation. This ratio is extraordinary and reflects how deeply discounted the equity is relative to the revenue pipeline.
 
 **Client mix matters.** FY2026 actual revenue disaggregation shows 69% private sector (R5.41bn) and 31% public sector (R2.43bn). Private-sector clients pay on time and don't carry the late-payment risk endemic to government contracts. This mix directly drives the cash conversion metrics.
 
-### Order Book Quality — What Coverage Actually Tells You
+### Order Book Quality - What Coverage Actually Tells You
 
 Order book coverage is the single most important forward-looking metric for a construction company. The formula is simple:
 
 > **Order Book Coverage = Order Book Value / Annual Revenue**
 
-At R15.3bn against ~R7.8bn in revenue, SSK has **1.95x coverage** — nearly two years of current-rate revenue already contracted. Anything above 1.5x is considered healthy for a construction contractor. Above 2x signals strong pipeline momentum.
+At R15.3bn against ~R7.8bn in revenue, SSK has **1.95x coverage** - nearly two years of current-rate revenue already contracted. Anything above 1.5x is considered healthy for a construction contractor. Above 2x signals strong pipeline momentum.
 
 But not all order book is equal. The quality assessment requires:
 
-- **Secured vs preferred bidder vs pipeline** — only secured work is truly contracted. The R15.3bn figure represents secured orders.
-- **Conversion timeline** — construction projects run 18–36 month execution cycles, meaning not all of the book converts to revenue in Year 1. At a 45% conversion rate, ~R6.9bn converts in the first year.
-- **Client mix** — the 78% private / 22% public split affects both payment certainty and achievable margin.
+- **Secured vs preferred bidder vs pipeline** - only secured work is truly contracted. The R15.3bn figure represents secured orders.
+- **Conversion timeline** - construction projects run 18–36 month execution cycles, meaning not all of the book converts to revenue in Year 1. At a 45% conversion rate, ~R6.9bn converts in the first year.
+- **Client mix** - the 78% private / 22% public split affects both payment certainty and achievable margin.
 
-**The companion metric is burn rate** — how quickly the company converts backlog to revenue. If SSK is winning work faster than it is executing, the order book grows and coverage improves. The trajectory from R8.6bn → R15.3bn in 12 months confirms exactly that: order intake is outpacing execution, which is the revenue acceleration story in one number.
+**The companion metric is burn rate** - how quickly the company converts backlog to revenue. If SSK is winning work faster than it is executing, the order book grows and coverage improves. The trajectory from R8.6bn → R15.3bn in 12 months confirms exactly that: order intake is outpacing execution, which is the revenue acceleration story in one number.
 
-### Excess Billings — The Demand Signal
+### Excess Billings - The Demand Signal
 
 | Metric | FY2024 | FY2025 | FY2026 | Change |
 |:---|---:|---:|---:|:---|
 | Excess Billings (Current) | R1,225m | R1,175m | R2,284m | +94.4% |
 | Excess Billings (Total) | R1,265m | R1,197m | R2,650m | +121.4% |
 
-Excess billings represent cash received for work not yet performed. Clients are paying SSK in advance. This explains the extraordinary cash position and signals strong forward demand — **clients don't prepay contractors they don't trust to deliver.**
+Excess billings represent cash received for work not yet performed. Clients are paying SSK in advance. This explains the extraordinary cash position and signals strong forward demand - **clients don't prepay contractors they don't trust to deliver.**
 
 The R2.28bn in current excess billings will unwind into recognised revenue over the next 12–18 months. This is embedded, pre-funded revenue that doesn't require additional financing.
 
-### Cash Conversion — The Proof
+### Cash Conversion - The Proof
 
 | Metric | FY2024 | FY2025 | FY2026 |
 |:---|---:|---:|---:|
@@ -230,11 +230,11 @@ The R2.28bn in current excess billings will unwind into recognised revenue over 
 | Cash Conversion (OCF/EBITDA) | 0.55x | 0.49x | **1.83x** |
 | Cash Coverage (OCF/Interest) | 0.92x | 1.29x | **10.75x** |
 
-Cash conversion of 183% of EBITDA is exceptional. The company is generating almost twice as much operating cash as its reported earnings. This is the excess billings dynamic at work — cash arrives before the revenue is recognised.
+Cash conversion of 183% of EBITDA is exceptional. The company is generating almost twice as much operating cash as its reported earnings. This is the excess billings dynamic at work - cash arrives before the revenue is recognised.
 
 ### What This Means for Revenue
 
-The -3.5% organic decline is a **timing lag**, not a demand problem. The order book is filling faster than projects are being executed. At a 45% annual conversion rate (standard for 18–36 month construction cycles), the R17.2bn book implies **~R7.7bn in revenue recognition in FY2027** — essentially matching current levels before any new orders are won.
+The -3.5% organic decline is a **timing lag**, not a demand problem. The order book is filling faster than projects are being executed. At a 45% annual conversion rate (standard for 18–36 month construction cycles), the R17.2bn book implies **~R7.7bn in revenue recognition in FY2027** - essentially matching current levels before any new orders are won.
 
 The question is not whether revenue recovers. It's how quickly margin expands as legacy provisions roll off and higher-quality private-sector work converts.
 
@@ -248,9 +248,9 @@ The question is not whether revenue recovers. It's how quickly margin expands as
 | Coastal | R1,446m | R75m | 5.2% | R2.6bn | Diversified into water, wastewater, marine. Revenue down but margins up. |
 | Western Cape | R860m | R48m | 5.6% | R3.1bn | Solid but impacted by project delays. Impairment of R14m on Land & Buildings. |
 | Africa | R1,066m | -R38m | -3.6% | R4.1bn | Eswatini delays, Botswana underperformance, Zambia FX headwinds. |
-| **Group Total** | **R7,840m** | **R689m** | **8.8%** | **R17.2bn** | — |
+| **Group Total** | **R7,840m** | **R689m** | **8.8%** | **R17.2bn** | - |
 
-**Africa Region is the problem child.** It swung from R92m operating profit to a R38m loss, driven by delayed government investment in Botswana, contract award delays in Zambia, and FX headwinds from the strengthening Kwacha. However, the Africa order book exploded from R0.8bn to R4.1bn (+394%), suggesting the revenue base will recover — the question is when and at what margin.
+**Africa Region is the problem child.** It swung from R92m operating profit to a R38m loss, driven by delayed government investment in Botswana, contract award delays in Zambia, and FX headwinds from the strengthening Kwacha. However, the Africa order book exploded from R0.8bn to R4.1bn (+394%), suggesting the revenue base will recover - the question is when and at what margin.
 
 **Inland Region is the engine.** R4.5bn in revenue (57% of group) at 6.4% operating margin, with an expanding footprint into data centres and renewable energy. This diversification away from traditional mining and petrochemical clients reduces concentration risk.
 
@@ -296,7 +296,7 @@ Both metrics improved year-on-year. Low LTIFR is a competitive advantage for win
 | Book Value per Share (FY2026) | 354.7 ZAc |
 | Price / Book (FY2026) | 2.03x |
 
-The NAV per share of 41.51 ZAc against a share price of ~720 ZAc produces a Price/NAV of ~17x — a number that looks absurd in isolation. It reflects the near-zero equity base, not a genuine premium. As equity rebuilds (R593m in FY2026 vs R16m in FY2025), this ratio will normalise rapidly. NAV-based valuation is meaningless here; use earnings-based and cash-flow-based metrics only.
+The NAV per share of 41.51 ZAc against a share price of ~720 ZAc produces a Price/NAV of ~17x - a number that looks absurd in isolation. It reflects the near-zero equity base, not a genuine premium. As equity rebuilds (R593m in FY2026 vs R16m in FY2025), this ratio will normalise rapidly. NAV-based valuation is meaningless here; use earnings-based and cash-flow-based metrics only.
 
 ### Peer Comparison
 
@@ -314,16 +314,16 @@ SSK trades at a fraction of every peer on both P/E and EV/EBITDA. The discount r
 | Metric | FY2024 | FY2025 | FY2026 |
 |:---|---:|---:|---:|
 | ROA | 0.3% | 2.6% | 11.4% |
-| ROE | — | — | 203.3% |
-| ROCE | — | — | 49.5% |
+| ROE | - | - | 203.3% |
+| ROCE | - | - | 49.5% |
 
 ROE of 203% is distorted by the very low equity base (R593m supporting R7.8bn in revenue), but ROCE of 49.5% is genuine and reflects how efficiently the business generates returns on its deployed capital.
 
 ---
 
-## 7. Valuation Approach — J-Curve Order Book Conversion
+## 7. Valuation Approach - J-Curve Order Book Conversion
 
-A traditional DCF requires normalised earnings and a terminal growth rate. SSK just exited restructuring — there is no "normal" yet. Guessing at a terminal margin for a company that posted negative equity 18 months ago is speculation dressed as precision.
+A traditional DCF requires normalised earnings and a terminal growth rate. SSK just exited restructuring - there is no "normal" yet. Guessing at a terminal margin for a company that posted negative equity 18 months ago is speculation dressed as precision.
 
 The **order book J-curve conversion model** is the better tool here because:
 - The R15.3bn order book is **contracted revenue**, not a growth assumption
@@ -345,7 +345,7 @@ The **order book J-curve conversion model** is the better tool here because:
 
 **Key assumptions:** 45% annual order book conversion rate, R4–5bn in new orders won annually, EBIT margins of 5.0%–5.5%, tax rate of 0% through FY2031 (deferred tax asset shielding) then 27% statutory.
 
-**The punchline:** cumulative FCFF reaches **R1.26bn by FY2031** — slightly more than the current market cap. The business generates its entire market capitalisation in free cash flow within five years on base-case assumptions.
+**The punchline:** cumulative FCFF reaches **R1.26bn by FY2031** - slightly more than the current market cap. The business generates its entire market capitalisation in free cash flow within five years on base-case assumptions.
 
 ### Sensitivity: New Orders Won
 
@@ -359,7 +359,7 @@ The one genuinely speculative input is the annual new orders assumption:
 
 Even in the bear case of R3bn in annual new orders, the company generates nearly its entire market cap in cumulative free cash flow within five years.
 
-### Infrastructure Pipeline — Incremental Upside
+### Infrastructure Pipeline - Incremental Upside
 
 The SA government has committed R1 trillion+ in infrastructure spending over the 2026 MTEF period. The workbook models SSK's addressable share as an **incremental** revenue stream on top of the existing order book:
 
@@ -369,13 +369,13 @@ The SA government has committed R1 trillion+ in infrastructure spending over the
 | EBIT Margin | 3.5% | 4.0% | 4.2% | 4.5% | 4.5% |
 | Phase | PROCURE | RAMP | RAMP | PEAK | PEAK |
 
-Public-sector margins (3.5%–4.5%) are lower than private-sector work, and the J-curve reflects typical government procurement lead times. This is modelled conservatively — IFISA (Infrastructure Finance and Implementation Support Agency) is designed to accelerate delivery, but government project timelines are notoriously unpredictable.
+Public-sector margins (3.5%–4.5%) are lower than private-sector work, and the J-curve reflects typical government procurement lead times. This is modelled conservatively - IFISA (Infrastructure Finance and Implementation Support Agency) is designed to accelerate delivery, but government project timelines are notoriously unpredictable.
 
 The infrastructure pipeline is upside optionality, not part of the core thesis. If it materialises, it adds R1.5–3.5bn in annual revenue at lower margins. If it doesn't, the private-sector order book alone carries the thesis.
 
 ---
 
-## 8. Stochastic Price Modelling — Monte Carlo Simulation
+## 8. Stochastic Price Modelling - Monte Carlo Simulation
 
 To stress-test the price trajectory beyond the fundamental models, a 1,000-path Geometric Brownian Motion (GBM) simulation was run across a 36-month forecast horizon. Two models were tested:
 
@@ -389,7 +389,7 @@ This model extrapolates the raw historical turnaround momentum (+74% per annum d
 | P50 (Median) | 2,638 ZAc |
 | P10 (Bear) | 804 ZAc |
 
-**Assessment:** This model is useful only as a momentum baseline. It tells you what happens if the recent explosive price action continues unchecked — which it won't. Turnaround momentum is inherently mean-reverting. No construction company sustains +74% annual returns.
+**Assessment:** This model is useful only as a momentum baseline. It tells you what happens if the recent explosive price action continues unchecked - which it won't. Turnaround momentum is inherently mean-reverting. No construction company sustains +74% annual returns.
 
 ### Model 2: Drift-Capped GBM (Dampened)
 
@@ -403,7 +403,7 @@ This model applies exponential decay to the drift component, fading from +20% Ye
 
 **Assessment:** The dampened model is the realistic one. A median outcome of ~709 ZAc (roughly flat from current levels) reflects the market's uncertainty about provision risk and revenue conversion. The P90 bull case of ~2,074 ZAc (~3x current price) aligns with what happens if the J-curve plays out and provisions don't crystallise. The P10 bear case of ~216 ZAc reflects a scenario where provisions blow up and/or the order book fails to convert.
 
-**The key insight from combining both models:** the undampened model's P10 bear case (804 ZAc) is higher than the current price. This means that even the most pessimistic momentum-based scenario still implies the stock holds its current level — the turnaround momentum has built a meaningful floor under the price. The risk is captured entirely in the dampened model's P10, which requires a fundamental deterioration (provisions, order book collapse) rather than simple mean-reversion.
+**The key insight from combining both models:** the undampened model's P10 bear case (804 ZAc) is higher than the current price. This means that even the most pessimistic momentum-based scenario still implies the stock holds its current level - the turnaround momentum has built a meaningful floor under the price. The risk is captured entirely in the dampened model's P10, which requires a fundamental deterioration (provisions, order book collapse) rather than simple mean-reversion.
 
 ---
 
@@ -422,7 +422,7 @@ For analysts who prefer a DCF framework, the key inputs are:
 | FCF Range (historical) | -R422m to +R1,432m | Extremely volatile; scenario analysis essential |
 | WACC Consideration | Equity-heavy capital structure | Debt is minimal; cost of equity dominates |
 
-**Caution on Kusile normalisation.** The R492m net after-tax Kusile gain must be stripped from any normalised earnings calculation. FY2026 operating profit before investment income was R689m (Standardised Data) — but a significant portion of investment income (R167m) and operating profit relates to the settlement. The clean run-rate is closer to R500–550m in operating profit.
+**Caution on Kusile normalisation.** The R492m net after-tax Kusile gain must be stripped from any normalised earnings calculation. FY2026 operating profit before investment income was R689m (Standardised Data) - but a significant portion of investment income (R167m) and operating profit relates to the settlement. The clean run-rate is closer to R500–550m in operating profit.
 
 **Interest savings are a direct FCF uplift.** FY2026 interest on the Facility was R80m (down from R115m on the historical loan). With the outstanding capital now at R223m and 19 quarterly instalments remaining through August 2030, the annualised interest run-rate going forward is approximately R30–35m. That is R80–130m in annual cash savings versus FY2025 levels (R163m) that flows directly to free cash flow.
 
@@ -435,7 +435,7 @@ For analysts who prefer a DCF framework, the key inputs are:
 | ~~FY2026 Full Audited Results~~ | ~~May 26, 2026~~ | **CONFIRMED.** Results published. Going concern language is clean. All covenants compliant. Unmodified review conclusion. |
 | ~~HEPS Confirmation~~ | ~~May 26, 2026~~ | **CONFIRMED.** EPS 370.44c, HEPS 359.26c (total operations). Within guided range. Forward P/E of ~1.9x confirmed. |
 | FSP Share Vesting | August 2026 | 10.1m shares vest. ~6% dilution if settled in shares. Watch for settlement method announcement. |
-| SA Infrastructure Budget (R1T+ MTEF) | Ongoing | SSK positioned across civils, buildings, mining — all target sectors. |
+| SA Infrastructure Budget (R1T+ MTEF) | Ongoing | SSK positioned across civils, buildings, mining - all target sectors. |
 | Order Book Update | Next interim (Nov 2026) | Sustained growth above R15bn validates demand thesis. Any slowdown is the key risk. |
 | IFISA Operationalisation | 2026–2027 | Could accelerate government infrastructure spend and shorten procurement timelines. |
 
@@ -451,7 +451,7 @@ The May 26 results have now confirmed the thesis catalysts: going concern langua
 
 ---
 
-## Appendix A — Full Financial Statements
+## Appendix A - Full Financial Statements
 
 ### Income Statement
 
@@ -461,7 +461,7 @@ The May 26 results have now confirmed the thesis catalysts: going concern langua
 | EBITDA | R471m | R309m | R170m | -R24m |
 | EBIT | R380m | R251m | R129m | -R79m |
 | Interest Expense | R127m | R151m | R129m | R113m |
-| Interest Income | — | R41m | R16m | R13m |
+| Interest Income | - | R41m | R16m | R13m |
 | Pretax Income | R254m | R101m | -R0.2m | -R192m |
 | Tax Provision | R45m | R74m | R37m | R80m |
 | Net Income (Continuing) | R209m | R26m | -R37m | -R271m |
@@ -499,25 +499,25 @@ The May 26 results have now confirmed the thesis catalysts: going concern langua
 | Trade & Other Receivables | R2,268m | R1,762m | R1,999m | R1,930m | R1,218m |
 | Accumulated Loss | (R386m) | (R1,062m) | (R1,193m) | (R1,209m) | (R1,225m) |
 | Goodwill | R272m | R272m | R272m | R272m | R272m |
-| Deferred Tax Asset | R169m | R179m | R174m | — | — |
-| Excess Billings (Current) | **R2,284m** | R1,175m | R1,225m | — | — |
-| Excess Billings (Non-current) | R366m | R22m | — | — | — |
+| Deferred Tax Asset | R169m | R179m | R174m | - | - |
+| Excess Billings (Current) | **R2,284m** | R1,175m | R1,225m | - | - |
+| Excess Billings (Non-current) | R366m | R22m | - | - | - |
 | Current Provisions | **R827m** | R929m | R966m | R649m | R598m |
-| PP&E | R1,078m | R865m | R529m | — | — |
+| PP&E | R1,078m | R865m | R529m | - | - |
 
 ### Cash Flow Statement
 
 | Metric | FY2026 | FY2025 | FY2024 | FY2023 | FY2022 |
 |:---|---:|---:|---:|---:|---:|
-| Cash Generated from Operations | **R1,676m** | R403m | — | — | — |
-| Investment Income Received | R168m | R50m | — | — | — |
+| Cash Generated from Operations | **R1,676m** | R403m | - | - | - |
+| Investment Income Received | R168m | R50m | - | - | - |
 | Finance Costs Paid | -R145m | -R163m | -R163m | -R136m | -R116m |
-| Tax Paid | -R148m | -R92m | -R63m | — | — |
+| Tax Paid | -R148m | -R92m | -R63m | - | - |
 | Operating Cash Flow | **R1,558m** | R211m | R149m | R333m | -R404m |
 | Capex (expanding + maintaining) | -R126m | -R149m | -R37m | -R38m | -R18m |
-| Cash from Investing | -R286m | -R135m | — | — | — |
+| Cash from Investing | -R286m | -R135m | - | - | - |
 | Debt Repaid | -R786m | -R294m | -R226m | -R113m | -R174m |
-| Cash from Financing | -R633m | -R298m | — | — | — |
+| Cash from Financing | -R633m | -R298m | - | - | - |
 | Net Change in Cash | **+R639m** | -R223m | -R10m | R253m | -R421m |
 
 ### Share Capital
@@ -540,9 +540,9 @@ The May 26 results have now confirmed the thesis catalysts: going concern langua
 
 ---
 
-## Appendix B — Sources
+## Appendix B - Sources
 
-- **SSK Reviewed Condensed Consolidated Results FY2026** — published 26 May 2026 (FY2026.pdf, stefanuttistocks.com)
+- **SSK Reviewed Condensed Consolidated Results FY2026** - published 26 May 2026 (FY2026.pdf, stefanuttistocks.com)
 - SSK Audited Results FY2025 (stefanuttistocks.com)
 - SSK Interim Results H1 FY2026, published Nov 25, 2025 (stefanuttistocks.com, sharenet.co.za, engineeringnews.co.za)
 - SSK Trading Statement May 15, 2026 (listcorp.com, sharenet.co.za, dailyinvestor.com)

@@ -14,7 +14,7 @@ The portfolio was organised from the supplied research collection. The [source m
 | [SSK company results](../research/stefanutti-stocks/sources/SSK-FY2026-Reviewed-Results.pdf) | `steff/FY2026.pdf` |
 | [Spreadsheet foundations](../foundations/Standards-and-Curves.ods) | `Standards and curves (pre-ai).ods` |
 
-The SSK report was present in the collection as a later Markdown write-up dated 26 May 2026. Its earlier draft is preserved in the SSK archive. The main SSK report and both main Excel workbooks retain their original contents.
+The SSK report was present in the collection as a later Markdown write-up dated 26 May 2026. Its earlier draft is preserved in the SSK archive. The reports retain their original financial content, with punctuation edits noted below. Both main Excel workbooks retain their original contents.
 
 ## Publication changes
 
@@ -22,6 +22,7 @@ The SSK report was present in the collection as a later Markdown write-up dated 
 - The repeated Calgro report, charts and CSV exports are represented by a single published copy. Earlier distinct models and the earlier PDF are retained in the Calgro archive.
 - Python scripts resolve paths from their own location. New exports go to ignored `generated/` folders, keeping the saved research outputs intact.
 - The earlier SSK draft has its opening heading cleaned up, its Obsidian marker removed and its machine-local CSV links replaced by repository-relative links. Its analysis is otherwise preserved.
+- Em dashes in the written reports and editable write-up have been replaced with standard hyphens. Chart titles are unchanged.
 - The legacy foundations workbook is unchanged, including its historical external references. These are documented in the [foundations notes](../foundations/README.md).
 - Duplicate archives, Python bytecode, office lock files, local editor configuration and the generated PDF indexing XML are omitted from publication.
 

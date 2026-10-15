@@ -6,10 +6,10 @@
 
 Critical flags that need to be in your SSK report
 The numbers throw up four things that significantly update the thesis.
-First, SSK is now in a net cash position of R441.5 million. This is a complete transformation — in FY2025 it had net debt of R766.5 million. That swing of over R1.2 billion in net position in one year is the restructuring thesis playing out in a single number.
+First, SSK is now in a net cash position of R441.5 million. This is a complete transformation - in FY2025 it had net debt of R766.5 million. That swing of over R1.2 billion in net position in one year is the restructuring thesis playing out in a single number.
 Second, EV/EBITDA of 0.89x means the market is essentially valuing the entire business at less than one year of operating earnings after netting out cash. For a company with a R15.3 billion order book this is either a screaming buy or the market knows something about provisions crystallising.
-Third, organic revenue ex-Kusile was -3.46%. The headline 2.39% growth includes R448m of Kusile settlement revenue that will not recur. Underlying order execution actually contracted slightly. This is your honest risk flag — the order book is growing but conversion to revenue has not yet caught up.
-Fourth, excess billings jumped 94.4% to R2.28 billion. This means clients are paying SSK in advance for work not yet done. That is a strong demand signal and partially explains why cash conversion is 182% of EBITDA — they are collecting cash faster than they are recognising revenue.
+Third, organic revenue ex-Kusile was -3.46%. The headline 2.39% growth includes R448m of Kusile settlement revenue that will not recur. Underlying order execution actually contracted slightly. This is your honest risk flag - the order book is growing but conversion to revenue has not yet caught up.
+Fourth, excess billings jumped 94.4% to R2.28 billion. This means clients are paying SSK in advance for work not yet done. That is a strong demand signal and partially explains why cash conversion is 182% of EBITDA - they are collecting cash faster than they are recognising revenue.
 The provisions at 68.7% of market cap remain the hanging risk. Even a 15-20% crystallisation rate would be material.
 ---
 
@@ -26,7 +26,7 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 
 ---
 
-## 2. Financial Statements — Hard Figures (from CSV data & SENS)
+## 2. Financial Statements - Hard Figures (from CSV data & SENS)
 
 ### Income Statement
 
@@ -36,7 +36,7 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 | **EBITDA**                                |         R470.9m |         R309.1m |         R170.2m |         -R24.4m |
 | **EBIT**                                  |         R380.2m |         R251.3m |         R128.7m |         -R78.6m |
 | **Interest Expense**                      |         R126.6m |         R150.8m |         R128.8m |         R112.9m |
-| **Interest Income**                       |               — |          R40.8m |          R15.6m |          R13.2m |
+| **Interest Income**                       |               - |          R40.8m |          R15.6m |          R13.2m |
 | **Pretax Income**                         |         R253.6m |         R100.5m |          -R0.2m |        -R191.5m |
 | **Tax Provision**                         |          R44.6m |          R74.3m |          R36.5m |          R79.9m |
 | **Effective Tax Rate**                    |      **17.60%** |          27.00% |          27.00% |          28.00% |
@@ -57,7 +57,7 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 
 **Source:** [^A] SSK Audited Results FY2025
 
-### Interim Results (H1 FY2026 — 6 months ended 31 August 2025)
+### Interim Results (H1 FY2026 - 6 months ended 31 August 2025)
 
 | Metric                                    | H1 FY2026 |        H1 FY2025 |  Change |
 | :---------------------------------------- | --------: | ---------------: | ------: |
@@ -66,20 +66,20 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 | **Profit for Period (Total)**             |    R48.4m |            R2.9m | +1,569% |
 | **EPS (Total)**                           |    28.96c |            1.71c | +1,594% |
 | **HEPS (Total)**                          |    34.54c |           13.23c |   +161% |
-| **Cash on Hand**                          |     R336m |                — |       — |
+| **Cash on Hand**                          |     R336m |                - |       - |
 | **Order Book**                            |    R13.4b | R8.6b (Feb 2025) |    +56% |
 
 **Source:** [^B] SSK Interim Results Nov 2025 (stefanuttistocks.com, sharenet.co.za)
 
-### Trading Statement — FY2026 (Year ended Feb 28, 2026) — Released May 15, 2026
+### Trading Statement - FY2026 (Year ended Feb 28, 2026) - Released May 15, 2026
 
 | Metric                           |                  Continuing Operations |                       Total Operations |
 | :------------------------------- | -------------------------------------: | -------------------------------------: |
 | **EPS Range**                    | 362.41c – 387.41c (**+190% to +210%**) | 361.56c – 377.28c (**+360% to +380%**) |
 | **HEPS Range**                   | 369.13c – 394.16c (**+195% to +215%**) | 349.95c – 371.82c (**+220% to +240%**) |
-| **Prior Year EPS (Continuing)**  |                                124.97c |                                      — |
-| **Prior Year HEPS (Continuing)** |                                125.13c |                                      — |
-| **Full Results Release Date**    |                       **May 26, 2026** |                                      — |
+| **Prior Year EPS (Continuing)**  |                                124.97c |                                      - |
+| **Prior Year HEPS (Continuing)** |                                125.13c |                                      - |
+| **Full Results Release Date**    |                       **May 26, 2026** |                                      - |
 
 **Source:** [^H] Trading Statement May 15, 2026 (listcorp.com, sharenet.co.za, dailyinvestor.com)
 
@@ -91,7 +91,7 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 | **Total Liabilities**             |       R5,078.3m |   R5,160.1m |   R5,216.8m |   R4,687.0m |
 | **Stockholders' Equity**          |      **R16.3m** |     -R51.7m |     -R66.4m |     -R90.0m |
 | **Total Debt**                    |          R23.6m |   R1,119.0m |   R1,240.3m |   R1,315.5m |
-| **Net Debt**                      |               — |     R397.7m |     R691.4m |     R944.6m |
+| **Net Debt**                      |               - |     R397.7m |     R691.4m |     R944.6m |
 | **Cash & Equivalents**            |         R493.6m |     R663.9m |     R494.4m |     R317.9m |
 | **Accounts Receivable**           |       R1,762.0m |   R1,998.9m |   R1,930.0m |   R1,217.5m |
 | **Retained Earnings (Acc. Loss)** | **(R1,061.9m)** | (R1,193.3m) | (R1,209.2m) | (R1,224.6m) |
@@ -208,7 +208,7 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 ### Balance Sheet Risks
 *   **Negative Tangible Book Value:** -R256m as at FY2025. Equity is only R16.3m against R5.1b in assets. The balance sheet has R1,062m in accumulated losses [^csv].
 *   **Negative Working Capital:** Current liabilities exceed current assets by R1,839m. Auditors flagged a material uncertainty regarding going concern as recently as H1 FY2026 [^B].
-*   **Provisions:** R929m in current provisions (FY2025) — these are potentially claims, guarantees, and contract disputes that could crystallize [^csv].
+*   **Provisions:** R929m in current provisions (FY2025) - these are potentially claims, guarantees, and contract disputes that could crystallize [^csv].
 
 ### Operational Risks
 *   **Construction Mafias:** Site disruptions from informal business forums remain a persistent tail risk, though 2025 reports indicate a decrease [^6].
@@ -218,7 +218,7 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 
 ### Macro Environment
 *   **SARB Policy:** Cautious, data-dependent stance. Rate-cutting cycle is paused. High rates increase the cost of capital for infrastructure projects [^G].
-*   **Infrastructure Pipeline:** SA government has committed R1 trillion+ in infrastructure spending over the 2026 MTEF period — a major tailwind for SSK's core business [^J].
+*   **Infrastructure Pipeline:** SA government has committed R1 trillion+ in infrastructure spending over the 2026 MTEF period - a major tailwind for SSK's core business [^J].
 *   **Public-Private Partnerships:** The establishment of IFISA (Infrastructure Finance and Implementation Support Agency) aims to streamline project delivery and crowd in private capital [^J].
 
 ### Positive Signals
@@ -243,16 +243,16 @@ Stefanutti Stocks is a leading multidisciplinary construction group in South Afr
 ---
 
 ## References
-[^2]: [Stefanutti Stocks SENS Archive — Moneyweb](https://www.moneyweb.co.za/tools-and-data/moneyweb-sens/?shareCode=SSK)
+[^2]: [Stefanutti Stocks SENS Archive - Moneyweb](https://www.moneyweb.co.za/tools-and-data/moneyweb-sens/?shareCode=SSK)
 [^4]: [Moneyweb SSK Data and Analysis](https://www.moneyweb.co.za/tools-and-data/click-a-company/SSK/)
-[^6]: Deep Web Analysis Report (May 2026) — Kusile R580m settlement, Standard Bank R850m facility, subsidiary disposals (engineeringnews.co.za, businessreport.co.za, dailyinvestor.com, jse.co.za).
-[^8]: May 2026 Recent News & Trading Statements — 195-215% HEPS forecast, R15.3b order book, 78% private sector mix (listcorp.com, sharenet.co.za, businessreport.co.za, engineeringnews.co.za).
+[^6]: Deep Web Analysis Report (May 2026) - Kusile R580m settlement, Standard Bank R850m facility, subsidiary disposals (engineeringnews.co.za, businessreport.co.za, dailyinvestor.com, jse.co.za).
+[^8]: May 2026 Recent News & Trading Statements - 195-215% HEPS forecast, R15.3b order book, 78% private sector mix (listcorp.com, sharenet.co.za, businessreport.co.za, engineeringnews.co.za).
 [^csv]: Local financial data files (SSK_income_stmt.csv, SSK_balance_sheet.csv, SSK_cashflows.csv, SSK_growth_estimates.csv, SSK_price_targets.csv).
 [^A]: SSK Audited Results FY2025 (stefanuttistocks.com).
 [^B]: SSK Interim Results for H1 FY2026, published Nov 25, 2025 (stefanuttistocks.com, sharenet.co.za, engineeringnews.co.za).
 [^D]: Share Price & 52-Week Range (investing.com, stockinvest.us, kwayisi.org, google.com).
-[^F]: JSE Peer Data — WBHO, Raubex Group (RBX), Calgro M3 (CGR), May 2026.
-[^G]: [SA 10-Year Government Bond Yield — 8.815% (worldgovernmentbonds.com)](https://www.worldgovernmentbonds.com/)
+[^F]: JSE Peer Data - WBHO, Raubex Group (RBX), Calgro M3 (CGR), May 2026.
+[^G]: [SA 10-Year Government Bond Yield - 8.815% (worldgovernmentbonds.com)](https://www.worldgovernmentbonds.com/)
 [^H]: [SSK Trading Statement May 15, 2026](https://www.listcorp.com/jse/ssk/) (listcorp.com, sharenet.co.za, dailyinvestor.com).
 [^I]: Share Capital Data (sharedata.co.za).
 [^J]: SA Construction Sector & Infrastructure Outlook 2026 (treasury.gov.za, gtac.gov.za, engineeringnews.co.za, businesstech.co.za, rib-software.com).
@@ -267,7 +267,7 @@ So if SSK has a R15.3B order book and their last annual revenue was roughly R8.7
 
 **Why it matters so much for your thesis**
 
-It directly answers the question of how confident you can be in forward revenue without having to make assumptions. It's not a projection — it's contracted work. That's a fundamentally different quality of forward visibility than anything a DCF assumption gives you.
+It directly answers the question of how confident you can be in forward revenue without having to make assumptions. It's not a projection - it's contracted work. That's a fundamentally different quality of forward visibility than anything a DCF assumption gives you.
 
 **What the numbers mean contextually**
 
@@ -277,13 +277,13 @@ Anything above 1x means they have more than a full year of work locked in. Above
 
 Not all order book is equal. You want to break it down by:
 
-- Secured vs preferred bidder vs pipeline — only secured is truly contracted
-- Conversion timeline — 18 to 36 month execution cycles mean not all of it hits revenue in Year 1
-- Client mix — your 78% private vs 22% public split affects payment certainty and margin
+- Secured vs preferred bidder vs pipeline - only secured is truly contracted
+- Conversion timeline - 18 to 36 month execution cycles mean not all of it hits revenue in Year 1
+- Client mix - your 78% private vs 22% public split affects payment certainty and margin
 
 **The companion metric**
 
-Order book burn rate — how quickly they're converting backlog to revenue. If they're winning work faster than they're executing it, the order book grows and coverage improves. SSK's trajectory suggests exactly that.
+Order book burn rate - how quickly they're converting backlog to revenue. If they're winning work faster than they're executing it, the order book grows and coverage improves. SSK's trajectory suggests exactly that.
 
 This single metric might be the clearest single piece of evidence supporting your SSK thesis.
 
