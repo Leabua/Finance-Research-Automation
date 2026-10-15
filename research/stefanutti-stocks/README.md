@@ -5,7 +5,7 @@ Equity research on a South African construction and engineering group, focusing 
 ## Main deliverables
 
 - [Excel research model](models/SSK-Full-Model.xlsx)
-- [Equity research report — 26 May 2026](reports/Stefanutti-Stocks-Equity-Research.md)
+- [Equity research report, 26 May 2026](reports/Stefanutti-Stocks-Equity-Research.md)
 - [Company FY2026 reviewed results (source PDF)](sources/SSK-FY2026-Reviewed-Results.pdf)
 - [Key metrics and price-movement figures](figures)
 - [Saved financial and pricing datasets](data)

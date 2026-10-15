@@ -5,7 +5,7 @@ Equity research on a South African property developer, linking financial stateme
 ## Main deliverables
 
 - [Completed Excel model](models/CGR-Full-with-Models.xlsx)
-- [Research report — May 2026 (PDF)](reports/Calgro-May-2026-Analysis.pdf)
+- [Research report, May 2026 (PDF)](reports/Calgro-May-2026-Analysis.pdf)
 - [Editable write-up source (ODT)](reports/source/Calgro-write-up.odt)
 - [Original result figures](figures)
 - [Saved financial and forecast datasets](data)

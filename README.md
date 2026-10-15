@@ -1,32 +1,25 @@
 # Finance Research Automation
 
-**Equity research, Excel financial modelling and Python automation for South African listed companies.**
+Excel financial models and equity research on Calgro M3 and Stefanutti Stocks, supported by Python data collection and chart generation.
 
 By [Leabua Khomari](https://github.com/Leabua)
 
-This portfolio brings together financial statement analysis, company research, project cash-flow models and visualisation. The two case studies cover Calgro M3 and Stefanutti Stocks, with the Excel models, written research, supporting data and Python scripts available together.
+**Research period: May 2026.**
 
-## Explore the work
+## Research
 
-| Case study | Excel model | Written research | Focus |
-| :--- | :--- | :--- | :--- |
-| **Calgro M3 · JSE: CGR** | [Completed model (.xlsx)](research/calgro-m3/models/CGR-Full-with-Models.xlsx) · [Download](https://github.com/Leabua/Finance-Research-Automation/raw/refs/heads/main/research/calgro-m3/models/CGR-Full-with-Models.xlsx) | [May 2026 report (.pdf)](research/calgro-m3/reports/Calgro-May-2026-Analysis.pdf) | Property development, segment cash flows, J-curves and probabilistic forecasting |
-| **Stefanutti Stocks · JSE: SSK** | [Research model (.xlsx)](research/stefanutti-stocks/models/SSK-Full-Model.xlsx) · [Download](https://github.com/Leabua/Finance-Research-Automation/raw/refs/heads/main/research/stefanutti-stocks/models/SSK-Full-Model.xlsx) | [26 May 2026 report](research/stefanutti-stocks/reports/Stefanutti-Stocks-Equity-Research.md) | Balance-sheet restructuring, earnings normalisation, order-book conversion and infrastructure scenarios |
+| Company | Excel model | Write-up |
+| :--- | :--- | :--- |
+| **Calgro M3 (JSE: CGR)** | [View](research/calgro-m3/models/CGR-Full-with-Models.xlsx) · [Download](https://github.com/Leabua/Finance-Research-Automation/raw/refs/heads/main/research/calgro-m3/models/CGR-Full-with-Models.xlsx) | [May 2026 report (PDF)](research/calgro-m3/reports/Calgro-May-2026-Analysis.pdf) |
+| **Stefanutti Stocks (JSE: SSK)** | [View](research/stefanutti-stocks/models/SSK-Full-Model.xlsx) · [Download](https://github.com/Leabua/Finance-Research-Automation/raw/refs/heads/main/research/stefanutti-stocks/models/SSK-Full-Model.xlsx) | [26 May 2026 report](research/stefanutti-stocks/reports/Stefanutti-Stocks-Equity-Research.md) |
 
-The reports and figures reflect the **May 2026 research period**. Prices, financial inputs and forward scenarios are presented in that historical context.
-
-## What the projects demonstrate
-
-- **Financial modelling:** standardising reported financials, calculating ratios, and modelling project inflows, outflows and cumulative free cash flow in Excel.
-- **Equity research:** connecting company strategy, financial performance, valuation, catalysts and risks in written investment research.
-- **Research automation:** collecting financial statements and price histories with Python, exporting CSV datasets, and assembling Excel data workbooks.
-- **Scenario analysis and visualisation:** modelling the timing of project cash flows and presenting forecast distributions, J-curves and market movements.
+Calgro covers development cash flows and valuation. SSK covers restructuring, earnings normalisation and order-book conversion.
 
 ## Selected results
 
 ### Calgro M3: Monte Carlo forecast
 
-The original forecast uses **1,000 simulated paths over 36 months**, with exponential smoothing fitted to log-transformed monthly prices. The shaded bands show the 10th–90th and 25th–75th percentiles. The 430 ZAc starting price is the research-period assumption.
+1,000 simulated paths over 36 months, using exponential smoothing on monthly log prices and a 430 ZAc starting assumption.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="research/calgro-m3/figures/CGR_monte_carlo_forecast_dark.png">
@@ -37,7 +30,7 @@ The original forecast uses **1,000 simulated paths over 36 months**, with expone
 
 ### Bankenveld: project cash-flow J-curve
 
-The segment model traces the initial investment period, delivery ramp, peak activity and eventual tail. Annual cash inflows and outflows sit alongside cumulative free cash flow, making the funding period and modelled break-even point visible.
+Annual cash inflows, outflows and cumulative free cash flow across the project lifecycle.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="research/calgro-m3/figures/bankenveld_jcurve_dark.png">
@@ -48,7 +41,7 @@ The segment model traces the initial investment period, delivery ramp, peak acti
 
 ### Calgro M3: combined project cash flows
 
-The consolidated view combines Bankenveld, Memorial Parks and the active integrated residential developments over the model's ten-year window. It shows how cash from mature projects interacts with investment in the development pipeline.
+Ten-year projection combining Bankenveld, Memorial Parks and active residential developments.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="research/calgro-m3/figures/combined_jcurve_dark.png">
@@ -57,38 +50,10 @@ The consolidated view combines Bankenveld, Memorial Parks and the active integra
 
 [Memorial Parks J-curve](research/calgro-m3/figures/memorial_parks_jcurve_light.png) · [Fleurhof and South Hills J-curve](research/calgro-m3/figures/fleurhof_south_hills_jcurve_light.png) · [All Calgro figures](research/calgro-m3/figures)
 
-The J-curves illustrate the original model assumptions. The Monte Carlo distribution describes the fitted price model; it is separate from the fundamental valuation and project cash-flow scenarios.
+## Files and methods
 
-## Inside the case studies
+Each case study separates models, reports, data, figures, scripts and earlier versions. Open the downloaded models in Excel or LibreOffice to inspect formulas and assumptions.
 
-**[Calgro M3](research/calgro-m3/README.md)** includes a 12-sheet workbook with standardised financials, cumulative outlays, Bankenveld, Memorial Parks and other residential developments, alongside underlying statements and price data. The report examines the development pipeline, capital intensity, leverage and valuation. Both light and dark versions of the result charts are included.
+[Calgro files](research/calgro-m3/README.md) · [SSK files](research/stefanutti-stocks/README.md) · [Earlier spreadsheet work](foundations/README.md)
 
-**[Stefanutti Stocks](research/stefanutti-stocks/README.md)** includes an 11-sheet workbook with standardised financials, ratios, order-book J-curves and infrastructure scenarios. The accompanying report examines the restructuring, Kusile settlement, recurring earnings, cash conversion and execution risks. The company's [FY2026 reviewed results](research/stefanutti-stocks/sources/SSK-FY2026-Reviewed-Results.pdf) are stored separately as a source document.
-
-The earlier [Standards and Curves workbook (.ods)](foundations/Standards-and-Curves.ods) documents the spreadsheet foundations behind the work. See its [notes](foundations/README.md) for the historical linked-file references.
-
-## Repository layout
-
-```text
-research/
-  calgro-m3/
-  stefanutti-stocks/
-    models/     Excel research models
-    reports/    Written research
-    data/       Saved CSV inputs and results
-    figures/    Original charts and tables
-    scripts/    Python data collection and chart generation
-    archive/    Earlier models and report versions
-foundations/    Earlier spreadsheet work
-docs/           Methodology, running instructions and file provenance
-```
-
-Both case studies use the same folder structure; the SSK company results are in `sources/`, and the editable Calgro write-up is in `reports/source/`.
-
-## Work with the files
-
-The reports and figures can be viewed directly on GitHub. Download the `.xlsx` models and open them in Excel or LibreOffice to inspect the formulas and assumptions. No Python setup is needed to review the completed work.
-
-To run the automation, see [running the scripts](docs/RUNNING.md). Generated outputs are saved separately from the published research models and original figures.
-
-[Methodology and data notes](docs/METHODOLOGY.md) · [File provenance](docs/PROVENANCE.md)
+[Methodology](docs/METHODOLOGY.md) · [Run the scripts](docs/RUNNING.md) · [File provenance](docs/PROVENANCE.md)
