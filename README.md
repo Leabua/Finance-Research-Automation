@@ -6,6 +6,11 @@ By [Leabua Khomari](https://github.com/Leabua)
 
 **Research period: May 2026.**
 
+## Key findings
+
+- **Calgro M3 (CGR): BUY.** Trades at a 65.9% discount to net asset value. Simulated median value of 557c (SA cents).
+- **Stefanutti Stocks (SSK):** Excluding the once-off Kusile settlement, underlying revenue is declining.
+
 ## Research
 
 | Company | Excel model | Write-up |
@@ -19,7 +24,7 @@ Calgro covers development cash flows and valuation. SSK covers restructuring, ea
 
 ### Calgro M3: Monte Carlo forecast
 
-1,000 simulated paths over 36 months, using exponential smoothing on monthly log prices and a 430 ZAc starting assumption.
+1,000 simulated paths over 36 months, starting at 430 ZAc (SA cents). The model applies exponential smoothing (a forecasting method that gives more weight to recent prices) to monthly log prices.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="research/calgro-m3/figures/CGR_monte_carlo_forecast_dark.png">
@@ -28,7 +33,7 @@ Calgro covers development cash flows and valuation. SSK covers restructuring, ea
 
 [Forecast data (.csv)](research/calgro-m3/data/CGR_monte_carlo_forecast.csv) · [Forecast script](research/calgro-m3/scripts/generate_monte_carlo.py)
 
-### Bankenveld: project cash-flow J-curve
+### Bankenveld: project cash-flow J-curve (initial investment followed by later cash returns)
 
 Annual cash inflows, outflows and cumulative free cash flow across the project lifecycle.
 
